@@ -32,6 +32,7 @@ pycountry
 pymongo
 python-dotenv
 python-magic
+pysocks
 qbittorrent-api
 requests
 speedtest-cli
